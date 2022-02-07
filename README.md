@@ -42,6 +42,6 @@ The updated index file is shown below.
 
 ### Summary:
 
-The results of the initial webscrape _______  to gather the Mars data are illustrated below
+The results of the initial https://redplanetscience.com performed to gather the Mars data are illustrated below
 
-After adding the code to scrape ___________ the images and titles are scraped using ______.  The data is updated in a MongoDB database and Flask is used to connect to the WebApp and the new scapings are displayed on the page. 
+After adding the code to scrape https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars  the images and titles are scraped using app.py.  The data is updated in a MongoDB database and Flask is used to connect to the WebApp and the new scapings are displayed on the page. 
