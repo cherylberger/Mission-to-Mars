@@ -1,13 +1,12 @@
-# Mission to Mars
+# Mission to Mars Module 10 - Cheryl Berger
 
 ### Overview: 
+Robin wants to polish her Mission to Mars WebApp and has asked me to adjust the current web app to include all four of the hemisphere images from an astrogeology site she was browsing recently. To do this, we will use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
 
 ###  Results: 
 
 #### Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images andmTitles
 Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars’s hemispheres and the titles of those images
-
-![image](https://user-images.githubusercontent.com/94234511/152661044-90c67d54-ccd3-42c0-848d-e21638932843.png)
 
 ![image](https://user-images.githubusercontent.com/94234511/152661063-515c6551-3604-4298-965e-1d1fa4e6ec76.png)
 ![image](https://user-images.githubusercontent.com/94234511/152661069-1cb2ec20-af32-4a83-a4e5-d7063d2fa289.png)
@@ -19,7 +18,7 @@ Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars
 
 ![image](https://user-images.githubusercontent.com/94234511/152660806-9f54b841-2789-4469-b371-e10d4ffbaa2e.png)
 
-!https://github.com/cherylberger/Mission-to-Mars/blob/main/Mission%20to%20Mars.png
+![image](https://user-images.githubusercontent.com/94234511/152661044-90c67d54-ccd3-42c0-848d-e21638932843.png)
 
 #### Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles
 Add the code you created in Deliverable 1 to your scraping.py file, update your Mongo database, and modify your index.html file so the webpage contains all the information you collected in this module as well as the full-resolution image and title for each hemisphere image.
