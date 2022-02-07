@@ -5,6 +5,7 @@
 ###  Results: 
 
 #### Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images andmTitles
+Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars’s hemispheres and the titles of those images
 
 ![image](https://user-images.githubusercontent.com/94234511/152661044-90c67d54-ccd3-42c0-848d-e21638932843.png)
 
@@ -21,11 +22,13 @@
 !https://github.com/cherylberger/Mission-to-Mars/blob/main/Mission%20to%20Mars.png
 
 #### Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles
+Add the code you created in Deliverable 1 to your scraping.py file, update your Mongo database, and modify your index.html file so the webpage contains all the information you collected in this module as well as the full-resolution image and title for each hemisphere image.
+
 
 
 
 #### Deliverable 3:  
-The objective of this deliverable was to update the web app to make it mobile responsive and add two additional Bootstrap 3 components to make it
+The objective of this deliverable was to update the WebApp to make it mobile responsive and add two additional Bootstrap 3 components to make it
 stand out.
 
   1) The updated code below was added to allow the web app to be mobile responsive
