@@ -47,11 +47,16 @@ stand out.
 The updated index file is shown below.  
 ![image](https://user-images.githubusercontent.com/94234511/152711754-871d4700-c7f8-4654-9842-2b67c78a007c.png)
 
+Run app.py in the terminal and follow the screen prompt to ctl-click to open the webpage indicated below
+![image](https://user-images.githubusercontent.com/94234511/152714780-7d00b362-7bf3-4b37-921b-1b89933279b5.png)
+
 
 ### Summary:
 
 The results of the initial https://redplanetscience.com performed to gather the Mars data are illustrated below
 !https://github.com/cherylberger/Mission-to-Mars/blob/main/Mission%20to%20Mars.png
+![image](https://user-images.githubusercontent.com/94234511/152714933-473149bf-46bc-4010-bc34-00dd57f46dac.png)
 
 After adding the code to scrape https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars  the images and titles are scraped using app.py.  The data is updated in a MongoDB database and Flask is used to connect to the WebApp and the new scapings are displayed on the page. 
+![image](https://user-images.githubusercontent.com/94234511/152714997-b65cea39-8fc5-44c7-8864-e72d6593a7d8.png)
 
